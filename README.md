@@ -1,2 +1,3 @@
 # simple-project
-This Is My First Repository
+This Is My First Git Repository
+Author-Pavan Poojari
